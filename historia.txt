@@ -4,3 +4,5 @@ asi que tengo 43 años y naci en Guatemala
 Esta es mi historia: 
 estoy agregando mas cosas a este archivo
 para ver como cambian los estados en git
+estoy tratando de ver como funcionan los cambios en 
+todo este archivo. 
